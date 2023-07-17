@@ -27,7 +27,9 @@ elements are present in the record it will display it
 5. Updating the imprisonment years left of the prisoner
 6. Displaying rate of the crime occurred in the Location, Year, Category and
 showing its bar chart with maximum and minimum occurrence
+
 Data Structure Used
+
 BINARY SEARCH TREE
 A binary search tree follows some order to arrange the elements. In a Binary search tree,
 the value of the left node must be smaller than the parent node, and the value of the
@@ -41,6 +43,8 @@ Instead of traversing every element sequentially until the right one is found, w
 how we work with arrays, we only need to traverse half the tree, then half of half the
 tree, then half of half of half the tree and so on. The result is much faster in case of
 insertion or searching in comparison to other data structures.
+
+
 STACK AND LINKED LIST
 Use of stack data structure is done in order to perform non recursive inorder
 traversal for searching by location,year and category.
