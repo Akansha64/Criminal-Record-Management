@@ -1,6 +1,7 @@
 # Criminal-Record-Management
 Creating a java  project to store criminal data using data structures such as Binary Tree, Stack and Linked list
 Problem Statement
+
 A database where all the criminal records are stored having the following options to
 perform
 1. Adding a New Record
